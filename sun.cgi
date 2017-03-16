@@ -1184,6 +1184,7 @@ class NotSubculture(object):
            u'^NHR$': u'うへえへへえぁぁぁあぁ',
            u'^TMD$': u'http://res.cloudinary.com/thefader/image/upload/s--tAIiYzeK--/w_1440,c_limit,q_jpegmini/vtus59nok5kywxecqyaw.jpg',
            u'^CMD$': SubcultureCMD,
+           u'たま' : u'写真',
            }
 
     def __init__(self):
